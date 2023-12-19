@@ -5,7 +5,7 @@
 #define next(P)(P)->next
 #define first(L)(L).first
 #define last(L)(L).last
-
+using namespace std;
 
 
 
